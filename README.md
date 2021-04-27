@@ -1,4 +1,4 @@
-minr# THIS PAGE COUNTED ![Visitor Count](https://profile-counter.glitch.me/Fooftilly/count.svg) VISITORS!
+# THIS PAGE COUNTED ![Visitor Count](https://profile-counter.glitch.me/Fooftilly/count.svg) VISITORS!
 <p align="center">
 <img src="https://raw.githubusercontent.com/Fooftilly/Fooftilly.github.io/master/images/plato.gif" />
 </p>
