@@ -1,7 +1,9 @@
-# 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Fooftilly/Fooftilly.github.io/master/images/plato.gif" />
-</p>
-
-
-I am not the programmer, but I understand the basics. In the free time I enjoy translating some of the community projects. I am also doing some book translation, but those are private at the moment.
+# Welcome :wave:
+Hi, 
+I'm Nikola, 
+a philosophy student, 
+and you can find my personal website at [peroniko.xyz](https://www.peroniko.xyz). 
+Although I'm not a programmer, 
+I have a basic understanding of coding. 
+In my free time, 
+I like to help translate community projects.
